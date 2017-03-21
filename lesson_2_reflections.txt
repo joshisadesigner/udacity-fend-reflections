@@ -8,3 +8,8 @@ What value do you think it offers?
     want to send to the repository. The difference is that The working directory
     is what we have as work in progress and the repository has the work is ready.
     • The value it offers is to have control over the changes made on the files.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+    By adding only the desired files that where affected for any change or
+    modification based on a logical change.
