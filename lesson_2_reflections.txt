@@ -1,3 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
     • A hidden git folder is created containing the git configurations.
     • To do it you need to write "git init" on the command line.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+    • The staging area represent the changes mades on our working files that we
+    want to send to the repository. The difference is that The working directory
+    is what we have as work in progress and the repository has the work is ready.
+    • The value it offers is to have control over the changes made on the files.
