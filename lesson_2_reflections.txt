@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical
 change?
     By adding only the desired files that where affected for any change or
     modification based on a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? how Would branches help?
+    • The best situation are when we try a new feature that we don't want to release in the current progress of the master branch.
+    • By separating branches we are able to test features separately. 
