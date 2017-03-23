@@ -14,6 +14,25 @@ change?
     By adding only the desired files that where affected for any change or
     modification based on a logical change.
 
-What are some situations when branches would be helpful in keeping your history organized? how Would branches help?
-    • The best situation are when we try a new feature that we don't want to release in the current progress of the master branch.
-    • By separating branches we are able to test features separately. 
+What are some situations when branches would be helpful in keeping your history
+organized? how Would branches help?
+    • The best situation are when we try a new feature that we don't want to
+    release in the current progress of the master branch.
+    • By separating branches we are able to test features separately.
+
+How do the diagrams help you visualize the branch structure?
+    By visualizing the diagram we are able to see the progress on a project and
+    the changes that have affected each branch and feature.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+    • The result is that we get the changes or features of the merged branches
+    in the same path.
+    • Because both branches becomes one single branch.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+    Pros:   Easy way to have different features worked isolated.
+            It will tell us whenever there are conflicts between different code.
+    Cons:   Time would be too long to merge code in large projects.
+            There could be too much human error on the mergin. 
