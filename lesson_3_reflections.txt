@@ -1,4 +1,12 @@
-When would you want to use a remote repository rather than keeping all your work local?
-    
-    • When you want to share with other people, so they can get easy accest to files.
+When would you want to use a remote repository rather than keeping all your work
+ local?
+
+    • When you want to share with other people, so they can get easy access to
+    files.
     • When you want to keep it safe in the cloud.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    The benefit is that it allows us to compare the code and be sure of any
+    change we are going to push to the remote.
