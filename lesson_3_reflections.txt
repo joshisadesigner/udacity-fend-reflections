@@ -10,3 +10,11 @@ stored locally?
 
     The benefit is that it allows us to compare the code and be sure of any
     change we are going to push to the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+    Probably Dropbox or Google Drive, what would be harder is that I don't see
+    a good way to work with several developer and it will affect the code and
+    files. The only thing that could be easy it that it could be share with
+    people who doesn't have code knowledge. 
